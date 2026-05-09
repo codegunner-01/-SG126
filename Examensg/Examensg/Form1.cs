@@ -77,7 +77,7 @@ namespace Examensg
             int a = int.Parse(textBox2.Text);
             int b = int.Parse(textBox3.Text);
             v1.Ejercicio2(a, b);
-            textBox7.Text = v1.Descargar();
+            //textBox7.Text = v1.Descargar();
 
         }
     }
