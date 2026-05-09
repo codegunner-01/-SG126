@@ -56,7 +56,7 @@ namespace Examensg
 
     
         //Ejercicio 1
-        //Seleccionar elementos repetidos en el rango [a,b] sin repetir en el resultado
+        
 
         public void Ejercicio1(int a, int b, ref Vector vr)
         {
@@ -135,18 +135,18 @@ namespace Examensg
 
                 if (ban == true)
                 {
-                    //verdadero   jugar con i
+                   
                     intercambiar(p, i);
                 }
                 else
                 {
-                    //falso    jugar con k
+                 
                     intercambiar(p, k);
                     k--;
                     i--;
                 }
 
-                ban = !ban; // codigo que hace intercalar
+                ban = !ban; 
 
             }
 
