@@ -1,0 +1,9 @@
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SI\ExamenSI\ExamenSI\bin\Debug\ExamenSI.exe.config
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SI\ExamenSI\ExamenSI\bin\Debug\ExamenSI.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SI\ExamenSI\ExamenSI\bin\Debug\ExamenSI.pdb
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SI\ExamenSI\ExamenSI\obj\Debug\ExamenSI.csprojResolveAssemblyReference.cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SI\ExamenSI\ExamenSI\obj\Debug\ExamenSI.Form1.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SI\ExamenSI\ExamenSI\obj\Debug\ExamenSI.Properties.Resources.resources
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SI\ExamenSI\ExamenSI\obj\Debug\ExamenSI.csproj.GenerateResource.Cache
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SI\ExamenSI\ExamenSI\obj\Debug\ExamenSI.exe
+D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SI\ExamenSI\ExamenSI\obj\Debug\ExamenSI.pdb
