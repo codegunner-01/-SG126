@@ -1,8 +1,0 @@
-D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SG\Examensg\Examensg\obj\Debug\Examensg.Form1.resources
-D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SG\Examensg\Examensg\obj\Debug\Examensg.Properties.Resources.resources
-D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SG\Examensg\Examensg\obj\Debug\Examensg.csproj.GenerateResource.Cache
-D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SG\Examensg\Examensg\bin\Debug\Examensg.exe.config
-D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SG\Examensg\Examensg\bin\Debug\Examensg.exe
-D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SG\Examensg\Examensg\bin\Debug\Examensg.pdb
-D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SG\Examensg\Examensg\obj\Debug\Examensg.exe
-D:\U\Sem\Sem_2\INF120_MOLLO\1_2026\Parciales\SG\Examensg\Examensg\obj\Debug\Examensg.pdb
